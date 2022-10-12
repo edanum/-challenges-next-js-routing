@@ -41,4 +41,5 @@ const Anchor = styled.a`
   width: 100%;
   text-align: center;
   padding: 20px;
+  color: white;
 `;
